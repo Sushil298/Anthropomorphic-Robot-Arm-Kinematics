@@ -20,7 +20,7 @@ manipulators can be derived with help of geometry. The figure below illustrates 
 relationship between Forward and Inverse Kinematics.  
 <img width="465" alt="Screen Shot 2023-10-29 at 6 55 12 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/1e04a0df-71a2-459c-82cc-77fb3c871fe9">
 
-# Project Goals
+# Project Implementations
 ### 1. A matlab function that would compute forward kinematics of the manipulator
 a) Input: joints’ states  
 b) Output: Points needed to draw the manipulator (as in forward kinematics lab)  
