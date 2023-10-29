@@ -33,3 +33,25 @@ a) The path will be a straight line along x-axis (WCF)
 b) x,y,z and time vectors are needed  
 c) Use To/From Workspace blocks to apply inputs and save joint states  
 8. Make sure the path is displayed in Mechanical Explorer (Spline block)  
+
+# Path Planning  
+The gripper is following the line on the Floor with both Elbow up and down configurations. 
+
+![Elbow_Down](https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/76004d07-70ee-402a-8a34-7fa8fe5f0412)
+![Elbow_Up](https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/d7db8b8d-ba36-4379-a09e-016f51423a8a)
+
+Now, theta1 and theta2 are fixed to 45 degrees and theta1 changes from 0 to 360 degrees.  
+
+![45degrees](https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/961ca3ef-5f73-49f5-96ca-e237c52cc4f9)
+
+# Test Cases  
+
+## Test Cases in Plots  
+
+<img width="450" alt="Screen Shot 2023-10-29 at 8 06 50 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/da0fb600-495a-49a5-8e35-1683ade84c0f">
+<img width="442" alt="Screen Shot 2023-10-29 at 8 07 25 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/9e8b09c1-0c72-4a2a-bec5-37fb38ab24ce">  
+
+## Test Cases in Simulink  
+
+<img width="450" alt="Screen Shot 2023-10-29 at 8 07 43 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/1e8f11b4-5b65-4a24-bc1b-3e83663848ae">
+<img width="442" alt="Screen Shot 2023-10-29 at 8 09 46 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/04c899b7-6faf-45b9-bf6e-36a76e9d7395">
