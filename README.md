@@ -1,3 +1,14 @@
+# Introduction  
+
+This repository presents the Simulink implementation of forward and inverse kinematics for a 3-link anthropomorphic robot arm. By utilizing these kinematics, the robot arm can trace a defined path, with the gripper's position specified in x, y, and z coordinates relative to a world frame, and its orientation determined by angles θ1, θ2, and θ3 from its initial state. The pose of the arm is depicted below.  
+
+<img width="465" alt="Screen Shot 2023-10-29 at 7 15 01 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/17edf573-6c89-4c84-9136-b5666b5b70c9">  
+
+The initial state of the arm is:  
+
+<img width="400" alt="Screen Shot 2023-10-29 at 7 24 12 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/45f4e586-384a-41bd-81ef-8e761a572acf">
+
+
 # BackGround Information
 Forward kinematics (FK) is the mapping from joint coordinates, or robot configuration,
 to end-effector pose. In other words, the main purpose of FK is to answer the following
