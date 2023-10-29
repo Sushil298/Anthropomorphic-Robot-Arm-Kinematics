@@ -6,7 +6,7 @@ This repository presents the Simulink implementation of forward and inverse kine
 
 The initial state of the arm is:  
 
-<img width="400" alt="Screen Shot 2023-10-29 at 7 24 12 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/45f4e586-384a-41bd-81ef-8e761a572acf">
+<img width="460" alt="Screen Shot 2023-10-29 at 7 24 12 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/45f4e586-384a-41bd-81ef-8e761a572acf">
 
 
 # BackGround Information
@@ -55,24 +55,20 @@ The gripper is following the line on the Floor with both Elbow up and down confi
 
 Now, theta1 and theta2 are fixed to 45 degrees and theta1 changes from 0 to 360 degrees.  
 
-<p align="center">
+<p float="left">
   <img src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/961ca3ef-5f73-49f5-96ca-e237c52cc4f9" alt="45degrees" width="450" />
 </p>
 
 # Test Cases  
 
+## Test Cases in Simulink   
+
+<img width="1000" alt="Screen Shot 2023-10-29 at 8 07 43 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/1e8f11b4-5b65-4a24-bc1b-3e83663848ae">
+<img width="1000" alt="Screen Shot 2023-10-29 at 8 09 46 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/04c899b7-6faf-45b9-bf6e-36a76e9d7395">
+
+
 ## Test Cases in Plots  
 
-<p float="left">
-  <img src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/da0fb600-495a-49a5-8e35-1683ade84c0f" width="450" alt="Screen Shot 2023-10-29 at 8 06 50 PM" />
-  <img src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/9e8b09c1-0c72-4a2a-bec5-37fb38ab24ce" width="442" alt="Screen Shot 2023-10-29 at 8 07 25 PM" /> 
-</p>
-
-
-## Test Cases in Simulink  
-
-<p float="left">
-  <img src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/1e8f11b4-5b65-4a24-bc1b-3e83663848ae" width="450" alt="Screen Shot 2023-10-29 at 8 07 43 PM" />
-  <img src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/04c899b7-6faf-45b9-bf6e-36a76e9d7395" width="442" alt="Screen Shot 2023-10-29 at 8 09 46 PM" /> 
-</p>
+<img width="1000" alt="Screen Shot 2023-10-29 at 8 06 50 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/da0fb600-495a-49a5-8e35-1683ade84c0f">
+<img width="1000" alt="Screen Shot 2023-10-29 at 8 07 25 PM" src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/9e8b09c1-0c72-4a2a-bec5-37fb38ab24ce">  
 
