@@ -44,7 +44,9 @@ The gripper is following the line on the Floor with both Elbow up and down confi
 
 Now, theta1 and theta2 are fixed to 45 degrees and theta1 changes from 0 to 360 degrees.  
 
-![45degrees](https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/961ca3ef-5f73-49f5-96ca-e237c52cc4f9)
+<p align="center">
+  <img src="https://github.com/Sushil298/Anthropomorphic-Robot-Arm-Kinematics/assets/80779647/961ca3ef-5f73-49f5-96ca-e237c52cc4f9" alt="45degrees" width="450" />
+</p>
 
 # Test Cases  
 
